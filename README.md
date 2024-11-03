@@ -1,5 +1,3 @@
-Here’s your edited `README.md` content with some adjustments for clarity and consistency:
-
 ```markdown
 # Ethereum Transaction SQL Assistant
 
