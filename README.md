@@ -59,7 +59,7 @@ To run this project, you'll need to have the following software and libraries in
 
 You can also schedule the data fetching process using Microsoft Task Scheduler to automate the retrieval of transaction data.
 
-If you encounter issues connecting to the database, double-check your database credentials and ensure the MySQL server is running (Services → MySQL80).
+If you encounter issues connecting to the database, double-check your database credentials and ensure the MySQL server is running.
 
 ## Acknowledgments
 
